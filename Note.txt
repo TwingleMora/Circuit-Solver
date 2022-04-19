@@ -1,0 +1,5 @@
+The Matlab Cpp Files Has Been Generated Using Matlab Coder
+MATLAB Coder™ generates C and C++ code from MATLAB® code 
+
+It May Ask for some modifications on the MATLAB Code before
+converting it to c++ as matlab coder doesn't support all matlab features
